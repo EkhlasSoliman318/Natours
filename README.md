@@ -1,2 +1,2 @@
 # Natours
-sass project
+sass project  rename i folder to img 
